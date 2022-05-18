@@ -18,7 +18,7 @@ My configuration files
 
 ## Installation
 
-### Installing programms (arch and arch base linux)
+### Installing programms (arch and arch based linux)
 ```
 # pacman -S i3 alacritty polybar feh 
 $ yay -S picom-ibhagwan-git
