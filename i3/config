@@ -183,3 +183,6 @@ exec --no-startup-id picom
 
 # Polybar
 exec --no-startup-id $HOME/.config/polybar/launch.sh
+
+# Conky
+exec --no-startup-id conky 
