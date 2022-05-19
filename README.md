@@ -1,8 +1,15 @@
 # Dotfiles
 
+[![works badge](https://cdn.jsdelivr.net/gh/nikku/works-on-my-machine@v0.2.0/badge.svg)](https://github.com/DiyorbekOlimov/dotfiles)
+
 My configuration files
 
+![image](https://user-images.githubusercontent.com/77888898/169376155-37511f7a-7120-446f-abbc-8175af8520eb.png)
+
 ![image](https://user-images.githubusercontent.com/77888898/169022586-db1f250c-323a-4110-8635-84e65251eb61.png)
+
+![image](https://user-images.githubusercontent.com/77888898/169376394-986ad15c-7307-46c1-a687-97f7ccf01e25.png)
+
 
 ## What's in?
 * WM: i3-gaps
