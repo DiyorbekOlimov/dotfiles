@@ -4,8 +4,8 @@ killall conky 2>/dev/null
 if [ "$1" = "-n" ]; then
     pause_flag=""
 else
-    pause_flag="--pause=5"
-    echo "Conky waiting 5 seconds to start..."
+    pause_flag="--pause=3"
+    echo "Conky waiting 3 seconds to start..."
 fi
 if conky --daemonize --quiet "$pause_flag" --config=/home/diyorbek/.config/conky/conky.conf ; then
     echo "Started"
