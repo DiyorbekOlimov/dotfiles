@@ -41,3 +41,9 @@ cd dotfiles
 cp -r . ~/.config 
 rm ~/.config/README.md  # if you don't want to have it :)
 ```
+
+
+
+## Credits
+
++ `polybar` design inspired by [UsmonHamidulloh](https://github.com/UsmonHamidulloh/i3wm-dotfiles)'s config
