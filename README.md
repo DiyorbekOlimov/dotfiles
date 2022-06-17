@@ -39,5 +39,5 @@ $ yay -S nerd-fonts-jetbrains-mono nerd-fonts-dejavu-complete
 git clone https://github.com/DiyorbekOlimov/dotfiles
 cd dotfiles
 cp -r . ~/.config 
-rm ~/.config/README.md #  if you dan't want to have it :)
+rm ~/.config/README.md  # if you dan't want to have it :)
 ```
