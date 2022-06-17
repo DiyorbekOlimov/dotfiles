@@ -4,12 +4,12 @@
 
 My configuration files
 
-![image](https://user-images.githubusercontent.com/77888898/169376155-37511f7a-7120-446f-abbc-8175af8520eb.png)
 
-![image](https://user-images.githubusercontent.com/77888898/169022586-db1f250c-323a-4110-8635-84e65251eb61.png)
+![2022-06-17_12-12](https://user-images.githubusercontent.com/77888898/174245473-ff6c70a8-c754-45eb-9d6b-37929006a5be.png)
 
-![image](https://user-images.githubusercontent.com/77888898/169376394-986ad15c-7307-46c1-a687-97f7ccf01e25.png)
+![2022-06-17_12-08](https://user-images.githubusercontent.com/77888898/174245101-43494c5c-8be1-4665-b874-baa40fab3cb5.png)
 
+![2022-06-17_12-14](https://user-images.githubusercontent.com/77888898/174245811-48dfdbb1-fc10-4c95-ab75-5a7f2f85ebd9.png)
 
 ## What's in?
 * WM: i3-gaps
