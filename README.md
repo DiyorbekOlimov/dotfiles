@@ -12,23 +12,24 @@ My configuration files
 ![2022-06-17_12-14](https://user-images.githubusercontent.com/77888898/174245811-48dfdbb1-fc10-4c95-ab75-5a7f2f85ebd9.png)
 
 ## What's in?
-* WM: i3-gaps
-* Compositor: picom with rounded corners (ibhagwan's fork)
-* Terminal: Alacritty
-* Notifications: Dunst
-* Launcher & Powermenu: Rofi
-* Status Bar: polybar
-* System monitor: conky
+* WM: `i3-gaps`
+* Compositor: `picom` with rounded corners (ibhagwan's fork)
+* Terminal: `alacritty`
+* Notifications: `dunst`
+* Launcher & Powermenu: `rofi`
+* Status Bar: `polybar`
+* System monitor: `conky`
+* Lockscreen: `betterlockscreen`
 * Fonts:
-  + DejavuSans Mono (NerdFont patch)
-  + JetBrains Mono (NerdFont patch
+  + `DejavuSans Mono` (NerdFont patch)
+  + `JetBrains Mono` (NerdFont patch
 
 ## Installation
 
 ### Installing programms (arch and arch based linux)
 ```
-# pacman -S i3 alacritty polybar feh 
-$ yay -S picom-ibhagwan-git
+# pacman -S i3 alacritty polybar
+$ yay -S picom-ibhagwan-git betterlockscreen
 $ yay -S nerd-fonts-jetbrains-mono nerd-fonts-dejavu-complete
 ```
 
